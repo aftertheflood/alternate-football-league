@@ -1,0 +1,22 @@
+{
+  "name": "alt-football-league",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/index.js",
+    "serve": "npx browser-sync start --server 'site'",
+    "build": "npx webpack ./src/index.js -o ./site/bundle.js --watch --mode=\"development\""
+  },
+  "author": "tom.g.pearson@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.26.3",
+    "d3": "^5.9.2",
+    "lodash.debounce": "^4.0.8",
+    "webpack": "^4.22.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.3"
+  }
+}

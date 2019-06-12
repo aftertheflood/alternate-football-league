@@ -1,0 +1,105 @@
+[
+  {
+    "club": "Tottenham Hotspur",
+    "primary": "#FFFFFF",
+    "secondary": "#222F4F",
+    "text": "#222F4F"
+  },
+  {
+    "club": "Manchester United",
+    "primary": "#D8000E",
+    "secondary": "#000000"
+  },
+  {
+    "club": "Huddersfield Town",
+    "primary": "#2197DD",
+    "secondary": "#0059AD"
+  },
+  {
+    "club": "Manchester City",
+    "primary": "#98C5E9",
+    "secondary": "#98C5E9"
+  },
+  {
+    "club": "Newcastle United",
+    "primary": "#FFFFFF",
+    "secondary": "#000000",
+    "text": "#000000"
+  },
+  {
+    "club": "Chelsea",
+    "primary": "#001489",
+    "secondary": "#E81010"
+  },
+  {
+    "club": "Brighton and Hove Albion",
+    "primary": "#0054A6",
+    "secondary": "#4B88DF"
+  },
+  {
+    "club": "Liverpool",
+    "primary": "#4B88DF",
+    "secondary": "#03816D"
+  },
+  {
+    "club": "Burnley",
+    "primary": "#81204C",
+    "secondary": "#E2F1FB"
+  },
+  {
+    "club": "Arsenal",
+    "primary": "#DB0007",
+    "secondary": "#9C824A"
+  },
+  {
+    "club": "West Ham United",
+    "primary": "#7D2B3A",
+    "secondary": "#59B3E4"
+  },
+  {
+    "club": "Watford",
+    "primary": "#FBEE24",
+    "secondary": "#202121"
+  },
+  {
+    "club": "Swansea City",
+    "primary": "#FFFFFF",
+    "secondary": "#090D0F",
+    "text": "#090D0F"
+  },
+  {
+    "club": "West Bromwich Albion",
+    "primary": "#223067",
+    "secondary": "#8D97A3"
+  },
+  {
+    "club": "Southampton",
+    "primary": "#D71920",
+    "secondary": "#EEEEEEE"
+  },
+  {
+    "club": "Stoke City",
+    "primary": "#D1162E",
+    "secondary": "#212C55"
+  },
+  {
+    "club": "Leicester City",
+    "primary": "#003090",
+    "secondary": "#FBBA00"
+  },
+  {
+    "club": "Bournemouth",
+    "primary": "#D71921",
+    "secondary": "#1C2A4B"
+  },
+  {
+    "club": "Everton",
+    "primary": "#004593",
+    "secondary": "#C7D5E8"
+  },
+  {
+    "club": "Crystal Palace",
+    "primary": "#1A5DA3",
+    "secondary": "#EE3E24"
+  }
+]
