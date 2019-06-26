@@ -1,5 +1,4 @@
 const d3 = require('d3')
-const debounce = require('lodash.debounce');
 const layoutFactory = require('./layout');
 const {coords2vector, vector2coords} = require('./line-vector');
 const colourList = require('../site/data/colours.json');
